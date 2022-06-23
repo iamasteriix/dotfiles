@@ -1,1 +1,0 @@
-/home/user/.submodules/nerdcommenter/doc/NERD_commenter.vim
