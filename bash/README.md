@@ -13,9 +13,9 @@ Three files are especially significant here:
 
 You can use `curl` and redirect with `>` to download them as follows:
 ```
-curl https://raw.githubusercontent.com/iamasteriix/dotfiles/tree/master/bash/.git-prompt.sh > .git-prompt.sh
-curl https://raw.githubusercontent.com/iamasteriix/dotfiles/tree/master/bash/.bashrc        > .bashrc
-curl https://raw.githubusercontent.com/iamasteriix/dotfiles/tree/master/bash/.dircolors     > .dircolors
+curl https://github.com/iamasteriix/dotfiles/blob/master/bash/.git-prompt.sh        > .git-prompt.sh
+curl https://raw.githubusercontent.com/iamasteriix/dotfiles/master/bash/.bashrc     > .bashrc
+curl https://raw.githubusercontent.com/iamasteriix/dotfiles/master/bash/.dircolors  > .dircolors
 ```
 Then logout and login again (or run the shortcut, `source ~/.profile`) for the changes to take 
 effect.
